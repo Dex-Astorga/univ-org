@@ -126,7 +126,7 @@ SELECT s.student_id,
       ON EXTRACT(YEAR FROM a.year_achieved) = EXTRACT(YEAR FROM o.year_of_service)
 WHERE ot.officer_type = 'President'
     AND association_type = 'Organization'
-    AND EXTRACT(YEAR FROM a.year_achieved) = '2023' ;
+    AND EXTRACT(YEAR FROM a.year_achieved) = '2023';
 
 
 
