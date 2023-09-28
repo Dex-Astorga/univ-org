@@ -111,9 +111,10 @@ By following these usage instructions, you can effectively manage students, prof
 ### Technologies Used:
 
 - **Database Management System:** PostgreSQL
-- **Programming Languages:** SQL
+- **Programming Language:** SQL
 - **Version Control:** Git
-- **Development Tools:** Visual Studio Code
+- **Development Tool:** Visual Studio Code
+- **ERD Development Tool:** Lucidchart
 
 <br>
 
